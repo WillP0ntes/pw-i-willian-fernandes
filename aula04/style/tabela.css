@@ -7,29 +7,35 @@
 .img {
     border: 2px solid #000000;
     padding: 10px;
+    background: #4d4dff;
 }
 
 .descricao {
     border: 2px solid #000000;
     padding: 20px;
+    background: #4d4dff;
 }
 
 .nome {
     border: 2px solid #000000;
     padding: 20px;
+    background: #4d4dff;
 }
 
 .mais {
     border: 2px solid #000000;
     padding: 20px;
+    background: #4d4dff;
 }
 
 .viage {
     border: 2px solid #000000;
     padding: 20px;
+    background: #4d4dff;
 }
 
 .imgv {
     box-shadow: 0 4px 8px 0 #000000, 0 6px 20px 0 #000000;
     padding: 5px 5px 1px 5px;
+    background: #4d4dff;
 }
