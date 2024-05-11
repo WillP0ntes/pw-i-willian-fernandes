@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Testando Responcive</title>
+</head>
+<body>
+    <h2>Setting the Viewport</h2>
+    <p>
+    This example does not really do anything, other than showing you 
+    how to add the viewport meta element.
+    </p>
+    <h2>Responsive Image</h2>
+    <p>
+    When the CSS width property is set in a percentage value,
+    the image will scale up and down when resizing the browser window.
+    Resize the browser window to see the effect.
+    </p>
+    <picture>
+    <source srcset="./img/lamborghini.jpg" media="(max-width: 600px)">
+    <source srcset="./img/ferrari.jpg" media="(max-width: 1000px)">
+    <img src="./img/lamborghini.jpg" style="max-width: 100%;">
+    </picture>
+</body>
+</html>

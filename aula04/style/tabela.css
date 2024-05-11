@@ -1,41 +1,30 @@
 .caixa {
     border: 5px solid #000000;
-    padding: 5%;
-    margin: 10%;
+    padding: 2%;
+    margin: 5%;
+    background: #3d5c5c;
 }
 
 .img {
+    width: 1px;
     border: 2px solid #000000;
     padding: 10px;
-    background: #4d4dff;
+    background: #669999;
 }
 
 .descricao {
     border: 2px solid #000000;
     padding: 20px;
-    background: #4d4dff;
-}
-
-.nome {
-    border: 2px solid #000000;
-    padding: 20px;
-    background: #4d4dff;
-}
-
-.mais {
-    border: 2px solid #000000;
-    padding: 20px;
-    background: #4d4dff;
-}
-
-.viage {
-    border: 2px solid #000000;
-    padding: 20px;
-    background: #4d4dff;
+    background: #669999;
 }
 
 .imgv {
     box-shadow: 0 4px 8px 0 #000000, 0 6px 20px 0 #000000;
     padding: 5px 5px 1px 5px;
-    background: #4d4dff;
+    background: #669999;
+}
+.abilidades {
+    border: 2px #000000;
+    padding: 20px;
+    margin: 5%;
 }
