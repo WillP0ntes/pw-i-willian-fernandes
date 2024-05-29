@@ -68,3 +68,18 @@ img{
     width: 80%;
     margin-top : 0px;
 }
+
+/* CSS para formulario*/
+
+form {
+    background-color: #1ad1ff;
+    text-align: center;
+    margin: 15px;
+}
+
+h2 {
+    text-align: center;
+    background-color: rgb(255, 17, 30);
+    margin: 15px;
+}
+
