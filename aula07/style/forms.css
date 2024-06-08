@@ -1,0 +1,27 @@
+form {
+    background-color: #1ad1ff;
+    text-align: center;
+    margin: 0px;
+    padding: 10px;
+    width: 400px;
+    margin: auto;
+    margin-top: 150px;
+}
+
+.a{
+    text-align: center;
+    padding: 20px;
+    background-color: #862d2d;
+    margin-top: 100px;
+    margin: auto;
+    width: 300px;
+}
+html{
+    background-color:rgb(255, 17, 30);
+    background-image: url(/aula07/img/calda.png);
+    background-position: center;
+}
+
+img{
+    width: 1000px;
+}
