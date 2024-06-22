@@ -14,16 +14,6 @@ header {
     padding: 67px;
 }
 
-.a ul {
-    list-style-type: none;
-    padding: 0;
-    display: flex;
-    width: 100%;
-    justify-content: center;
-    background-color: #862d2d;
-    position: relative;
-}
-
 article {
     float: left;
     padding: 20px;
@@ -40,16 +30,17 @@ section::after {
     display: table;
     clear: both;
 }
-section{
+section .teste{
     background-color:#1ad1ff;
     background-image: url(/aula07/img/calda2.png);
     height: fit-content;
     background-image: center;
 }
-section img{
+.img{
     width: 17%;
     height: 20%;
     padding: 10px;
+    background-color:#1ad1ff;
 }
 
 footer {
@@ -65,4 +56,14 @@ footer {
     width: 100%;
     height: auto;
     }
+}
+
+.a ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    background-color: #862d2d;
+    position: relative;
 }
